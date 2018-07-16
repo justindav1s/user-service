@@ -2,7 +2,7 @@
 *.iml
 # Compiled class file
 *.class
-
+db/users.db
 # Log file
 *.log
 
