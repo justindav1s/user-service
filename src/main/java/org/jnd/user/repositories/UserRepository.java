@@ -32,7 +32,7 @@ public class UserRepository{
 
     ObjectMapper mapper = new ObjectMapper();
 
-    @Value("${user.db.path:db/users.db}")
+    @Value("${user.db.path:users.db}")
     String dbPath;
 
     @PostConstruct
