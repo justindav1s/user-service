@@ -1,0 +1,9 @@
+/Users/jusdavis/github/user-service/src/main/java/org/jnd/user/model/exceptions/UsernameExistsException.java
+/Users/jusdavis/github/user-service/src/main/java/org/jnd/user/model/User.java
+/Users/jusdavis/github/user-service/src/main/java/org/jnd/user/controller/UserController.java
+/Users/jusdavis/github/user-service/src/main/java/org/jnd/user/repositories/UserRepository.java
+/Users/jusdavis/github/user-service/src/main/java/org/jnd/user/model/IPAddress.java
+/Users/jusdavis/github/user-service/src/main/java/org/jnd/user/model/exceptions/UserNotFoundException.java
+/Users/jusdavis/github/user-service/src/main/java/org/jnd/user/controller/IPValidationController.java
+/Users/jusdavis/github/user-service/src/main/java/org/jnd/user/model/exceptions/IncorrectPasswordException.java
+/Users/jusdavis/github/user-service/src/main/java/org/jnd/user/UserApplication.java

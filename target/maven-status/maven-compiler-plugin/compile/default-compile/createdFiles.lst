@@ -1,0 +1,9 @@
+org/jnd/user/model/IPAddress.class
+org/jnd/user/controller/UserController.class
+org/jnd/user/model/exceptions/UserNotFoundException.class
+org/jnd/user/UserApplication.class
+org/jnd/user/model/exceptions/IncorrectPasswordException.class
+org/jnd/user/model/User.class
+org/jnd/user/model/exceptions/UsernameExistsException.class
+org/jnd/user/controller/IPValidationController.class
+org/jnd/user/repositories/UserRepository.class
